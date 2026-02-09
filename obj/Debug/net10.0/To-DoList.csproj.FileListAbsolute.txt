@@ -1,0 +1,14 @@
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.AssemblyInfoInputs.cache
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.AssemblyInfo.cs
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.csproj.CoreCompileInputs.cache
+C:\Users\joaos\Learning Project\C#\To-DoList\bin\Debug\net10.0\To-DoList.exe
+C:\Users\joaos\Learning Project\C#\To-DoList\bin\Debug\net10.0\To-DoList.deps.json
+C:\Users\joaos\Learning Project\C#\To-DoList\bin\Debug\net10.0\To-DoList.runtimeconfig.json
+C:\Users\joaos\Learning Project\C#\To-DoList\bin\Debug\net10.0\To-DoList.dll
+C:\Users\joaos\Learning Project\C#\To-DoList\bin\Debug\net10.0\To-DoList.pdb
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.dll
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\refint\To-DoList.dll
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.pdb
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.genruntimeconfig.cache
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\ref\To-DoList.dll
