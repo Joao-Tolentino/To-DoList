@@ -12,3 +12,4 @@ C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\refint\To-DoList.
 C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.pdb
 C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.genruntimeconfig.cache
 C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\ref\To-DoList.dll
+C:\Users\joaos\Learning Project\C#\To-DoList\obj\Debug\net10.0\To-DoList.sourcelink.json
